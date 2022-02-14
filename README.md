@@ -9,11 +9,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Firebase
 
-To embed firebase in your project , you can go to [https://firebase.google.com/docs/web/setup?authuser=0](firebase docs)
+To embed firebase in your project , you can go to [firebase docs](https://firebase.google.com)
 
 # React Toastify
 
-To embed React Toastify , Go to [https://www.npmjs.com/package/react-toastify](react-toastify) guide.
+To embed React Toastify , Go to [react-toastify](https://www.npmjs.com/package/react-toastify) guide.
 ## Available Scripts
 
 In the project directory, you can run:
