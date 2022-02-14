@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Tools Used
+1. React Js
+2. Firebase
+3. React Toastify
+
+# Firebase
+
+To embed firebase in your project , you can go to [https://firebase.google.com/docs/web/setup?authuser=0](firebase docs)
+
+# React Toastify
+
+To embed React Toastify , Go to [https://www.npmjs.com/package/react-toastify](react-toastify) guide.
 ## Available Scripts
 
 In the project directory, you can run:
